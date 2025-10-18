@@ -12,5 +12,5 @@ physical_health_education = int(input("Physical Health Education: "))
 sum = (math + chemistry + physics + bangla + english + indivaidual_society + art + physical_health_education)
 
 print ("The percentage of all the subject's marks are:")
-perc = (sum / 800) * 100
+perc = (sum / 800) * 10
 print(perc)
